@@ -32,7 +32,7 @@ paths:
   /v1/sync/tasks/fcdafa16-8b44-44a2-98dc-cb6cdac648e2:
     post:
       tags:
-      - "login"
+      - "login v2"
       summary: "Logear"
       requestBody:
         description: ""
